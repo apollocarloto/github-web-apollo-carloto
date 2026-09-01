@@ -10,5 +10,6 @@ Segue uma lista das etapas da atividade cumpridas até o presente momento de edi
 - [ ] Etapa 6 — Adicionar colaborador
 - [ ] Etapa 7 — Excluir repositório (SIMULAÇÃO)
 
-![Static Badge](https://img.shields.io/badge/Apollo%20Carloto)
+![Static Badge](https://img.shields.io/badge/Apollo-Carloto)
+
 
