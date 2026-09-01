@@ -1,4 +1,4 @@
-# Atividade Prática - Print a print
+# Atividade Prática - Print a print 😎
 Atividade pratica GitHub Web desenvolvida por Apollo Carloto
 Aluno de __Logística__ na *FATEC de São José dos Campos*
 Segue uma lista das etapas da atividade cumpridas até o presente momento de edição deste README.md
@@ -9,3 +9,5 @@ Segue uma lista das etapas da atividade cumpridas até o presente momento de edi
 - [ ] Etapa 5 — Upload de arquivo
 - [ ] Etapa 6 — Adicionar colaborador
 - [ ] Etapa 7 — Excluir repositório (SIMULAÇÃO)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
